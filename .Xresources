@@ -1,0 +1,26 @@
+! Do not re-arrange !
+
+! Color Schemes [ black > red > green > yellow > blue > magenta > cyan > white ]
+#define black0                    [95]#373E4D
+#define black1                    #3B4252
+#define black2                    #434C5E
+#define black3                    #4C566A
+#define red0                      #FA5AA4
+#define red1                      #FA74B2
+#define green0                    #2BE491
+#define green1                    #44EB9F
+#define yellow0                   #FA946E
+#define yellow1                   #FAA687
+#define blue0                     #63C5EA
+#define blue1                     #7ACBEA
+#define magenta0                  #CF8EF4
+#define magenta1                  #D8A6F4
+#define cyan0                     #89CCF7
+#define cyan1                     #A1D5F7
+#define white0                    [100]#F9F9F9
+#define white1                    #F7F7F7
+#define white2                    #F4F4F4
+
+! Termody [ Reverse the Visual ]
+xmenu.foreground:                     white1
+xmenu.background:                     black1

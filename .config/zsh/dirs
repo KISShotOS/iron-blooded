@@ -1,0 +1,13 @@
+export BARDIR="$HOME/.local/scripts/bar"
+export SCRDIR="$HOME/.local/scripts"
+export DWMDIR="$HOME/.local/src/dwm-6.3"
+export SRCDIR="$HOME/.local/src"
+export ZSHDIR="$HOME/.config/zsh"
+export CFGDIR="$HOME/.config"
+
+alias cdBar="cd $BARDIR"
+alias cdScr="cd $SCRDIR"
+alias cdSrc="cd $SRCDIR"
+alias cdDwm="cd $DWMDIR"
+alias cdZsh="cd $ZSHDIR"
+alias cdCfg="cd $CFGDIR"
